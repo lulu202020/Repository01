@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T10:38:23.314Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="W_4DzX91ZOYO5Z8UP4XC" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T11:09:03.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kOSc3GymO4mu5zX7Z3nv" version="21.1.1" type="github">
   <diagram name="第 1 页" id="vMp5FmEjGzmWGoxb78nr">
-    <mxGraphModel dx="2021" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2021" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -422,7 +422,7 @@
         <mxCell id="QuiFqJqIi-HaTxp3gUGb-141" value="专业复试结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1222" y="800" width="85" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="QuiFqJqIi-HaTxp3gUGb-142" value="专业方向或推荐部分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-142" value="建议方向或推荐部门" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1312" y="798.5" width="85" height="55" as="geometry" />
         </mxCell>
         <mxCell id="QuiFqJqIi-HaTxp3gUGb-143" value="面试官" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -454,6 +454,18 @@
             <mxPoint x="990" y="940" as="sourcePoint" />
             <mxPoint x="1340" y="1010" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-151" value="人事（HR）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-112" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-152" value="面试官" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-112" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-153" value="第一轮面试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-154" value="第二轮面试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
