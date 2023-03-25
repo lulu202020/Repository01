@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T07:16:40.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vtISwDfXWsV1x90sGZ42" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T07:17:40.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="z0QExSHyvtsdEzwXFAzU" version="21.1.1" type="github">
   <diagram name="第 1 页" id="vMp5FmEjGzmWGoxb78nr">
     <mxGraphModel dx="1194" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="QuiFqJqIi-HaTxp3gUGb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QuiFqJqIi-HaTxp3gUGb-12" target="QuiFqJqIi-HaTxp3gUGb-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QuiFqJqIi-HaTxp3gUGb-12" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-12" value="账户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="166" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QuiFqJqIi-HaTxp3gUGb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QuiFqJqIi-HaTxp3gUGb-13" target="QuiFqJqIi-HaTxp3gUGb-19">
@@ -84,10 +84,10 @@
         <mxCell id="QuiFqJqIi-HaTxp3gUGb-15" value="面试管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="836" y="166" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QuiFqJqIi-HaTxp3gUGb-16" value="用户信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-16" value="账户信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="263" width="40" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="QuiFqJqIi-HaTxp3gUGb-18" value="用户角色查询关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-18" value="账户角色查询关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="263" width="40" height="135" as="geometry" />
         </mxCell>
         <mxCell id="QuiFqJqIi-HaTxp3gUGb-19" value="角色信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
