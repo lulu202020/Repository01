@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T06:33:21.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.1" etag="mLXm7hVebgyMe7kbRXHs" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T06:42:49.448Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PdKNUtZtX2CtsNZfUNGD" version="21.1.1" type="github">
   <diagram name="第 1 页" id="vMp5FmEjGzmWGoxb78nr">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-3" value="企业简易招聘系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="50" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-12" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-13" value="角色管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-14" value="候选人管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QuiFqJqIi-HaTxp3gUGb-15" value="面试管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
