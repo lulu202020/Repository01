@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T14:13:40.857Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TpguPWtVk_pWeBUz349m" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T14:15:43.791Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pEf0yLSqlqLeA-OIoF-z" version="21.1.1" type="github">
   <diagram name="第 1 页" id="vMp5FmEjGzmWGoxb78nr">
     <mxGraphModel dx="1964" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1217,7 +1217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-201" value="面试管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="3538" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="3536" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-206" target="dubUYDhHEsFUWQK_gBDE-208">
           <mxGeometry relative="1" as="geometry" />
@@ -1231,7 +1231,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-206" value="上一环节面试是否完成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="3655" width="80" height="80" as="geometry" />
+          <mxGeometry x="610" y="3654" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-208" target="dubUYDhHEsFUWQK_gBDE-214">
           <mxGeometry relative="1" as="geometry" />
@@ -1245,11 +1245,12 @@
         <mxCell id="dubUYDhHEsFUWQK_gBDE-209" value="程序开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="3320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dubUYDhHEsFUWQK_gBDE-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-211" target="dubUYDhHEsFUWQK_gBDE-201">
+        <mxCell id="dubUYDhHEsFUWQK_gBDE-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-211" target="dubUYDhHEsFUWQK_gBDE-201">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="3695" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="920" y="3695" />
-              <mxPoint x="920" y="3562" />
+              <mxPoint x="950" y="3695" />
+              <mxPoint x="950" y="3566" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1257,7 +1258,7 @@
           <mxGeometry x="763" y="3665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-214" value="面试结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="591" y="3900" width="120" height="60" as="geometry" />
+          <mxGeometry x="591" y="3894" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
