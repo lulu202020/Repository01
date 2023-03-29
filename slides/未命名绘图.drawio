@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T13:23:59.775Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TstBJEcGSyG2UB5X2J3O" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T13:26:43.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rYvGfBa2Zx1VmBQ9ycd4" version="21.1.1" type="github">
   <diagram name="第 1 页" id="vMp5FmEjGzmWGoxb78nr">
-    <mxGraphModel dx="2021" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1964" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -746,14 +746,19 @@
             <mxPoint x="641" y="2595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dubUYDhHEsFUWQK_gBDE-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-29">
+        <mxCell id="dubUYDhHEsFUWQK_gBDE-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-29" target="dubUYDhHEsFUWQK_gBDE-75">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="2425" as="sourcePoint" />
-            <mxPoint x="1181" y="2595" as="targetPoint" />
+            <mxPoint x="1010" y="2580" as="targetPoint" />
             <Array as="points">
               <mxPoint x="641" y="2485" />
-              <mxPoint x="1181" y="2485" />
+              <mxPoint x="1142" y="2485" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dubUYDhHEsFUWQK_gBDE-90" value="判断用户角色" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dubUYDhHEsFUWQK_gBDE-76">
+          <mxGeometry x="-0.9163" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-29" value="用户角色/权限" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -766,13 +771,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-30" value="HR权限登录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-62" y="2540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-37" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-32" target="dubUYDhHEsFUWQK_gBDE-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-32" value="批量导入候选人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="2710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-115" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-34" target="dubUYDhHEsFUWQK_gBDE-36">
           <mxGeometry relative="1" as="geometry" />
@@ -786,19 +791,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-34" value="校验导入文件和合法性" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="2840" width="80" height="80" as="geometry" />
+          <mxGeometry x="-95" y="2840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-36" value="写入数据库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="3010" width="120" height="60" as="geometry" />
+          <mxGeometry x="-115" y="3010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-39" value="提示具体错误" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="2840" width="80" height="80" as="geometry" />
+          <mxGeometry x="-255" y="2840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-41" target="dubUYDhHEsFUWQK_gBDE-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-41" value="候选人面试官分配" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5" y="2710" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-43" target="dubUYDhHEsFUWQK_gBDE-45">
           <mxGeometry relative="1" as="geometry" />
@@ -817,13 +822,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-43" value="判断数据状态" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="25" y="2840" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="2840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-45" value="提示面试已结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5" y="3010" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="3010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-48" value="可修改未面试环节面试官" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="223" y="2850" width="120" height="60" as="geometry" />
+          <mxGeometry x="248" y="2850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -895,7 +900,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-75" value="面试官登录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="2600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1082" y="2595" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-79" target="dubUYDhHEsFUWQK_gBDE-81">
           <mxGeometry relative="1" as="geometry" />
@@ -906,7 +911,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-79" value="面试管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="2740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1082" y="2735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dubUYDhHEsFUWQK_gBDE-81" target="dubUYDhHEsFUWQK_gBDE-84">
           <mxGeometry relative="1" as="geometry" />
@@ -925,13 +930,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-81" value="是否已评价" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="2890" width="80" height="80" as="geometry" />
+          <mxGeometry x="1102" y="2885" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-84" value="修正评价记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1328" y="2900" width="120" height="60" as="geometry" />
+          <mxGeometry x="1289" y="2895" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dubUYDhHEsFUWQK_gBDE-87" value="新增评价记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="3060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1082" y="3055" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
