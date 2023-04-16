@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T05:56:04.945Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GTTQhFbHbxyFoU0147lM" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-16T05:58:10.726Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="E97PABFlOwOKf7ZIWTD7" version="21.1.1" type="github">
   <diagram name="第 1 页" id="vMp5FmEjGzmWGoxb78nr">
     <mxGraphModel dx="1781" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1330,6 +1330,21 @@
         </mxCell>
         <mxCell id="wq0Htpfd1HNT-SBmu2jW-27" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;FINSHIN&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-189" y="5437" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq0Htpfd1HNT-SBmu2jW-35" value="Step1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-453" y="5210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq0Htpfd1HNT-SBmu2jW-36" value="Step2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-315.5" y="5350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq0Htpfd1HNT-SBmu2jW-37" value="Step3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-614.12" y="5350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq0Htpfd1HNT-SBmu2jW-38" value="Step4" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-740" y="5510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq0Htpfd1HNT-SBmu2jW-39" value="Step5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-467" y="5510" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
